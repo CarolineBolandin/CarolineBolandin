@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CarolineBolandin
 - 👀 I’m interested in practice my already acquired skills
 - 🌱 I’m currently learning JavaScript For Google Extensions
+- 🥲 I still have trouble creating and using my gits and repositories...
 
 <!---
 CarolineBolandin/CarolineBolandin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
